@@ -1,12 +1,12 @@
 # ETHEREUM-Beginner Assessment - Getting Started with Solidity
 In this, I will be sharing about what I learned from this course with the help of token project given by metacrafters team.
 ## Description
-Here this Solidity contract named surbhiFirstToken that defines a token called Solana (Sol) with an initial total supply of 0 tokens. This contract provides functionality to mint new tokens to a specified address and burn tokens from a specified address, ensuring the integrity of token balances.
+Here this Solidity contract named surbhiFirstToken that takes inputs for given tokens Ex: EtherX (ETRX) with an initial total supply of 0 tokens. This contract provides functionality to mint new tokens to a specified address and burn tokens from a specified address, ensuring the integrity of token balances.
 ### Code execution
 For executing the code i have used remix ide [https://remix.ethereum.org/].
 ![image](https://github.com/Surbhi268/ETH-Proof/assets/138808811/a7be8efb-f0e3-4a70-9d49-8fd54f247577)
 ### Code Explanation
-In this Solidity contract for a token called "Solana" (abbreviated "Sol") with a total initial supply of 0 tokens. The contract includes functions for minting and burning tokens, and it keeps track of token balances using a mapping from address to uint. 
+In this Solidity contract for a given any token say "EtherX" (abbreviated "ETRX") with a total initial supply of 0 tokens. The contract includes functions for minting and burning tokens, and it keeps track of token balances using a mapping from address to uint. 
 ![image](https://github.com/Surbhi268/ETH-Proof/assets/138808811/6cd3d3a7-cd87-414f-8b12-28b68416ef06)
 ![image](https://github.com/Surbhi268/ETH-Proof/assets/138808811/983aa94f-117d-4cdc-ae64-efab7298b5d5)
 #### Execution steps on remix ide online
